@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🌍 SeisAug
 ### A Python Toolkit for Seismological Waveform Data Augmentation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
