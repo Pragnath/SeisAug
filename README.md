@@ -119,8 +119,8 @@ The example MiniSEED files provided in `data/` are sourced from the **Southern C
 |---|---|---|
 | **Pragnath D.** | Lead Author | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ZAzbmKYAAAAJ&hl=en) |
 | Srijayanthi G. | Co-Author | — |
-| Sanjay Kumar | Co-Author | — |
-| Sandeep Chopra | Co-Author | — |
+| Santosh Kumar | Co-Author | — |
+| Sumer Chopra | Co-Author | — |
 
 ---
 
