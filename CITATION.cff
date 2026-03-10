@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "SeisAug: A data augmentation python toolkit"
+authors:
+  - family-names: D.
+    given-names: Pragnath
+    orcid: ""
+    website: "https://scholar.google.com/citations?user=ZAzbmKYAAAAJ&hl=en"
+  - family-names: G.
+    given-names: Srijayanthi
+  - family-names: Kumar
+    given-names: Sanjay
+  - family-names: Chopra
+    given-names: Sandeep
+version: "1.0.0"
+date-released: "2025-01-01"
+license: MIT
+repository-code: "https://github.com/Pragnath/SeisAug"
+url: "https://www.sciencedirect.com/science/article/pii/S259019742500014X"
+preferred-citation:
+  type: article
+  title: "SeisAug: A data augmentation python toolkit"
+  authors:
+    - family-names: D.
+      given-names: Pragnath
+    - family-names: G.
+      given-names: Srijayanthi
+    - family-names: Kumar
+      given-names: Sanjay
+    - family-names: Chopra
+      given-names: Sandeep
+  journal: "Applied Computing and Geosciences"
+  volume: 25
+  start: 100232
+  year: 2025
+  doi: "10.1016/j.acags.2025.100232"
+  url: "https://www.sciencedirect.com/science/article/pii/S259019742500014X"

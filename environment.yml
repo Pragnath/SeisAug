@@ -1,11 +1,11 @@
-# environment.yml
-name: SeismoAug
+name: seisaug
 channels:
   - conda-forge
 dependencies:
-  - obspy
+  - python>=3.10
+  - numpy
+  - scipy
   - matplotlib
-  - scipy~=1.10.0
-  - jupyter
+  - obspy
   - ipywidgets
-
+  - jupyterlab
